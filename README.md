@@ -19,7 +19,7 @@ I need to map the results of environment where light is showing to see ir light 
 This project will be built via stair aware blocks I have already v1 prototyped which I will improve the geometry of. I will try to use a photon if I can get enough inputs to work off of a photon. Otherwise I am going to move over to a bigger board. I need to sort this out by week 2 and I am going to buy into a few different boards arduinos that are internet controlled and photon stuff. 
 
 I am going to need to circle back on the block diagram. However, here is a rough start.
-![Startblockdiagram] (file:///Users/natty/Dropbox/School%20CCA/14.%20Adv%20Progrm%20&%20Elec/5.%20HW%20Masters/14.%20Final%20Proj%20Ideas/Board_Schema.png)
+There is a block diagram attached here. I started on the board.
 
 ## Challenges
 
