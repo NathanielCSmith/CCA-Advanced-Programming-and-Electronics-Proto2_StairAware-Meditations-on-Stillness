@@ -21,6 +21,9 @@ This project will be built via stair aware blocks I have already v1 prototyped w
 I am going to need to circle back on the block diagram. However, here is a rough start.
 There is a block diagram attached here. I started on the board.
 
+## Block Diagram Sketch
+![Board_Schema](Board_Schema.png)
+
 ## Challenges
 
 A brief discussion of what you anticipate will be the hardest and most time-consuming parts.
