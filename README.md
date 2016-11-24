@@ -27,7 +27,7 @@ There is a block diagram attached here. I started on the board.
 ## Challenges
 
 A brief discussion of what you anticipate will be the hardest and most time-consuming parts.
-I already started working on a project I just wrapped up today where we put these LED’s with a photon off of a sensor. Getting the animation sequences to work and sync to the sensor across the photon weren’t easy. I built the object, because my partner couldn’t so I don’t know all of the code, but I saw how long it took him. However, I have access to all the code and I can at least ask him if I can’t figure it out. So I feel like this gives me at least a leg forward as I can leverage and build upon that code. 
+I already started working on a project I just wrapped up today where we put these LED’s with a photon off of a sensor. Getting the animation sequences to work and sync to the sensor across the photon wasn’t easy. 
 
 I don’t fully understand matrix yet and I think that will be a challenge to figure out as well as the complex math that goes along with running these animation sequences. Mapping the correct value to to trigger location I don’t think we be too hard, but making sure the values of light in each environment are right each time the product shifts will be perhaps a challenge. 
 
