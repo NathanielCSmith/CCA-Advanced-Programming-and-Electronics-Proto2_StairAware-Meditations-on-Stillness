@@ -44,7 +44,7 @@ I think that would be the ideal testing kit for working on a code bank to make t
 
 ## Final States The Serial Monitor
 ![Slave Serial Monitor](Slave Serial Monitor.png)
-![Master Serial Monitor](Slave Serial Monitor.png)
+![Master Serial Monitor](Master Serial Monitor.png)
 
 ## Final Video of Where the Project Is Now
 https://www.dropbox.com/s/2l39omnp0gin327/2017-01-20%2008.24.58.mov?dl=0
