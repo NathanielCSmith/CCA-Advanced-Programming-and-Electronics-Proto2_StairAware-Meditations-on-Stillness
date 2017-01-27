@@ -99,7 +99,7 @@ https://www.dropbox.com/s/2l39omnp0gin327/2017-01-20%2008.24.58.mov?dl=0
 
 
 
-## References and link
+## References and links
 Tutorials, comments, videos, magazine articles - Anything you found that helps you understand your project 
 ADVPE Link Pick Up
 
